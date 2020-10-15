@@ -1,1 +1,1 @@
-repo for Hacktoberfest in Indore!
+repository for Hacktoberfest in Indore!
